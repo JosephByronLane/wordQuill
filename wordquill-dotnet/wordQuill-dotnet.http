@@ -1,0 +1,6 @@
+@wordQuill_dotnet_HostAddress = http://localhost:5211
+
+GET {{wordQuill_dotnet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
